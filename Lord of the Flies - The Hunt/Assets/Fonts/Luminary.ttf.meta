@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0fce4c2c8d0ba574b848cd77b62f7891
+timeCreated: 1516133406
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Luminary
+  fontNames:
+  - Luminary
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 2
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
